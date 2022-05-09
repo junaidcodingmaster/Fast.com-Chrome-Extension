@@ -1,0 +1,23 @@
+{
+  "name": "Fast.com",
+  "description": "Fast.com is a simple-to-use way for consumers to test what is the speed of internet.",
+  "version": "1",
+  "manifest_version": 3,
+
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "Pop_Up.html",
+    "default_icon": {
+      "16": "/img/icon-16x16.png",
+      "32": "/img/icon-32x32.png",
+      "48": "/img/icon-48x48.png",
+      "128": "/img/icon-128x128.png"
+    }
+  },
+  "icons": {
+    "16": "/img/icon-16x16.png",
+    "32": "/img/icon-32x32.png",
+    "48": "/img/icon-48x48.png",
+    "128": "/img/icon-128x128.png"
+  }
+}
